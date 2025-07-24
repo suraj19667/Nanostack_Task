@@ -10,6 +10,3 @@ A responsive React dashboard for managing buyer meetings, tasks, notifications, 
 - User profile dropdown
 - Modular component structure
 - Modern UI with Tailwind CSS and React Icons
-
-## Project Structure
-
